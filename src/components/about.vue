@@ -1,13 +1,11 @@
 <template>
-  <div>
-    <h1>This is home page</h1>
-  </div>
+   <h2>Good Day India </h2>
 </template>
 
 <script>
-  export default {
-    
-  }
+    export default {
+        name:"AboutUs"
+    }
 </script>
 
 <style lang="scss" scoped>
